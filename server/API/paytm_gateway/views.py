@@ -65,7 +65,7 @@ def payment(request):
         'CHANNEL_ID': settings.PAYTM_CHANNEL_ID,
         'CALLBACK_URL': settings.PAYTM_CALLBACK_URL,
         'MOBILE_NO': '7777777777',
-        'EMAIL': 'arao8732@gmail.com',
+        'EMAIL': 'Email Id',
         'CUST_ID': '123123',
         'ORDER_ID':order_id,
         'TXN_AMOUNT': bill_amount,
